@@ -1,6 +1,6 @@
 ### hii hii
 
-![Hoplon Badge](https://www.holopin.io/userbadge/cln34fw4h25220fl39sflijrn)
+[![An image of @taniyeahh7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taniyeahh7)](https://holopin.io/@taniyeahh7)
 
 
 
